@@ -1,4 +1,4 @@
-<strong>👀 Hi, I’m @vduck123</p>
+<strong>👀 Hi, I’m @duckgo24</p>
 <h3>Technologies I use often</h3>
 <table>
   <tr>
@@ -24,8 +24,8 @@
 </table>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vduck123&show_icons=true&locale=en&layout=compact" alt="vduck123" width="300" height="200" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=vduck123&show_icons=true&locale=en" alt="vduck123" width="300" height="200" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=vduck123&" alt="vduck123" width="300" height="200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=duckgo24&show_icons=true&locale=en&layout=compact" alt="duckgo24" width="300" height="200" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=duckgo24&show_icons=true&locale=en" alt="vduck123" width="300" height="200" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=duckgo24&" alt="vduck123" width="300" height="200" /></td>
   </tr>
 </table>
